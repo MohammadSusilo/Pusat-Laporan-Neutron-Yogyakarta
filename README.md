@@ -20,10 +20,8 @@ Ini merupakan project untuk mengumpulkan data-data laporan cabang ke pusat, yang
 ## Installation
 
 - ** Cloningkan app ini dari Github. **
-    Github:
-            'git clone https://github.com/MZSSLAutoService/PusatLaporanNeutronYogyakarta.git'.
-            Kemudian menggunakan command line di dalam folder app. Ketikkan composer install.
-
+- Github: "git clone https://github.com/MZSSLAutoService/PusatLaporanNeutronYogyakarta.git".
+- Kemudian menggunakan command line di dalam folder app. Ketikkan "composer install" (jika telah menginstall composer), (Jika tidak nanti ketikkan) "C:\ProgramData\ComposerSetup\bin\composer install".
 - ** edit .env sesuai dengan database Anda. **
 - ** Import Sql ke database Anda. **
 - ** Jalankan perintah "php artisan serve" **
